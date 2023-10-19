@@ -1,7 +1,10 @@
 name: custom_sky_button
-description: A new Flutter package project.
+description: This is custom button to use it.
 version: 0.0.1
-homepage:
+author: skyshivy
+homepage: https://github.com/skyshivy/custom_sky_button
+
+
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
